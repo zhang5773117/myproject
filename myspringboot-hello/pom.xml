@@ -9,6 +9,7 @@
         <version>2.1.6.RELEASE</version>
     </parent>
 	<!-- 这是一个注释 -->
+	<!-- 命令行中指向的内容是zs -->
     <groupId>com.zb</groupId>
     <artifactId>myspringboot-hello</artifactId>
     <version>1.0-SNAPSHOT</version>
